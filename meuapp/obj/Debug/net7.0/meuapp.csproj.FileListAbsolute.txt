@@ -1,0 +1,14 @@
+C:\Users\User\meuapp\bin\Debug\net7.0\meuapp.exe
+C:\Users\User\meuapp\bin\Debug\net7.0\meuapp.deps.json
+C:\Users\User\meuapp\bin\Debug\net7.0\meuapp.runtimeconfig.json
+C:\Users\User\meuapp\bin\Debug\net7.0\meuapp.dll
+C:\Users\User\meuapp\bin\Debug\net7.0\meuapp.pdb
+C:\Users\User\meuapp\obj\Debug\net7.0\meuapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\meuapp\obj\Debug\net7.0\meuapp.AssemblyInfoInputs.cache
+C:\Users\User\meuapp\obj\Debug\net7.0\meuapp.AssemblyInfo.cs
+C:\Users\User\meuapp\obj\Debug\net7.0\meuapp.csproj.CoreCompileInputs.cache
+C:\Users\User\meuapp\obj\Debug\net7.0\meuapp.dll
+C:\Users\User\meuapp\obj\Debug\net7.0\refint\meuapp.dll
+C:\Users\User\meuapp\obj\Debug\net7.0\meuapp.pdb
+C:\Users\User\meuapp\obj\Debug\net7.0\meuapp.genruntimeconfig.cache
+C:\Users\User\meuapp\obj\Debug\net7.0\ref\meuapp.dll
